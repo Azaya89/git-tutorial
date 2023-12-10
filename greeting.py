@@ -3,5 +3,3 @@ def greet(name):
 
 name = "pablo"
 print(greet(name))
-
-another_name = "Azaya"
